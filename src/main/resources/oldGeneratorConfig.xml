@@ -56,12 +56,14 @@
 		</javaClientGenerator>
 
 
-		<!-- 指定数据库表 -->
+
 		<!--以下方式生成的会带有Example类-->
-		<!--<table schema="" tableName="tb_address"></table>
-		<table schema="" tableName="tb_areas"></table>-->
-		<!--<table  tableName="tb_brand"></table>-->
-		<!--<table schema="" tableName="tb_cities"></table>
+
+		<!--
+		<table schema="" tableName="tb_address"></table>
+		<table schema="" tableName="tb_areas"></table>
+		<table  tableName="tb_brand"></table>
+		<table schema="" tableName="tb_cities"></table>
 		<table schema="" tableName="tb_content"></table>
 		<table schema="" tableName="tb_content_category"></table>
 		<table schema="" tableName="tb_freight_template"></table>
@@ -78,7 +80,9 @@
 		<table schema="" tableName="tb_specification"></table>
 		<table schema="" tableName="tb_specification_option"></table>
 		<table schema="" tableName="tb_type_template"></table>
-		<table schema="" tableName="tb_user"></table>-->
+		<table schema="" tableName="tb_user"></table>
+
+		-->
 		
 		<!-- 有些表的字段需要指定java类型
 		<table schema="" tableName="">
