@@ -58,11 +58,19 @@
 
 
 		<!--以下方式生成的会带有Example类-->
+		<table  tableName="tb_goods_desc"></table>
+		<table  tableName="tb_goods"></table>
+		<table  tableName="tb_item"></table>
+		<table  tableName="tb_item_cat"></table>
 
+		<table  tableName="tb_seller"></table>
+		<table  tableName="tb_specification_option"></table>
+		<table  tableName="tb_specification"></table>
+		<table  tableName="tb_type_template"></table>
 		<!--
 		<table schema="" tableName="tb_address"></table>
 		<table schema="" tableName="tb_areas"></table>
-		<table  tableName="tb_brand"></table>
+
 		<table schema="" tableName="tb_cities"></table>
 		<table schema="" tableName="tb_content"></table>
 		<table schema="" tableName="tb_content_category"></table>
